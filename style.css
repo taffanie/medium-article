@@ -1,0 +1,51 @@
+.container {
+  background-image: url(https://source.unsplash.com/random);
+  height: 300px;
+  width: 100% !important;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*margin: 0 auto;*/
+}
+
+.headertext {
+  width: 800px;
+  margin: 0 auto;
+  color: white;
+}
+
+h1 {
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+}
+
+.text {
+  font-family: 'Lora', serif;
+  color: #bbbbbb;
+}
+
+.container2 {
+  width: 800px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+a {
+  font-family: 'Satisfy', cursive;
+  background-color: #c7f0db;
+  text-decoration: none;
+  color: #bbbbbb;
+  font-size: 25px;
+}
+
+a:hover {
+  background-color: #29a19c;
+}
+
+body {
+  margin: 0;
+}
